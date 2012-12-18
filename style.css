@@ -1,0 +1,17 @@
+body {
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+#text {
+    height: 100%;
+    width: 50%;
+    margin: 0 auto;
+    overflow: auto;
+}
+
+p {
+    margin: 1em;
+    padding: 0;
+}
